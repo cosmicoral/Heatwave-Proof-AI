@@ -515,7 +515,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"/contracts/HeatwaveProof.sol": "HeatwaveProof"
+			"contracts/HeatwaveProof.sol": "HeatwaveProof"
 		},
 		"evmVersion": "osaka",
 		"libraries": {},
@@ -529,14 +529,6 @@
 		"remappings": []
 	},
 	"sources": {
-		"/contracts/HeatwaveProof.sol": {
-			"keccak256": "0x7e151ee7f0c3e23aa373799dc80a9c98bc791acf4ee20e2e47bdea70c22f73aa",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://253269b60ec0c2678c08d338852995b38a2b27caeb52ad2c1e7108dd61440aca",
-				"dweb:/ipfs/QmSeicnVWnukcYUKQyqAW9fqijWx8cKFfSgY35MwSHXKT5"
-			]
-		},
 		"@openzeppelin/contracts/access/Ownable.sol": {
 			"keccak256": "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
 			"license": "MIT",
@@ -551,6 +543,14 @@
 			"urls": [
 				"bzz-raw://6a708e8a5bdb1011c2c381c9a5cfd8a9a956d7d0a9dc1bd8bcdaf52f76ef2f12",
 				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
+			]
+		},
+		"contracts/HeatwaveProof.sol": {
+			"keccak256": "0x7e151ee7f0c3e23aa373799dc80a9c98bc791acf4ee20e2e47bdea70c22f73aa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://253269b60ec0c2678c08d338852995b38a2b27caeb52ad2c1e7108dd61440aca",
+				"dweb:/ipfs/QmSeicnVWnukcYUKQyqAW9fqijWx8cKFfSgY35MwSHXKT5"
 			]
 		}
 	},
